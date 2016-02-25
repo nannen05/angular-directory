@@ -1,0 +1,25 @@
+{
+  "name": "directory",
+  "version": "1.0.0",
+  "description": "An Angular Directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nannen05/angular-directory.git"
+  },
+  "author": "Nick Annen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nannen05/angular-directory/issues"
+  },
+  "homepage": "https://github.com/nannen05/angular-directory#readme",
+  "devDependencies": {
+    "bower": "^1.7.7",
+    "gulp": "^3.9.1",
+    "gulp-bower": "0.0.13",
+    "wiredep": "^3.0.0"
+  }
+}
